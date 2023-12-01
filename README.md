@@ -1,4 +1,5 @@
 Hello and Welcome to Purple Squirrel Media's GitHub Profile! 👋
+
 🔭 What We're Working On:
 Purple Squirrel Media is dedicated to creating innovative mobile apps that captivate and engage users. Our current project focuses on leveraging cutting-edge technology to enhance user experience and provide unique digital solutions.
 
